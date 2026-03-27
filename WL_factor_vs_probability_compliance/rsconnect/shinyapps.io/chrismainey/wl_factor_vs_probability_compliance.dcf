@@ -1,0 +1,10 @@
+name: wl_factor_vs_probability_compliance
+title:
+username: chrismainey
+account: chrismainey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16999673
+bundleId: 11769572
+url: https://chrismainey.shinyapps.io/wl_factor_vs_probability_compliance/
+version: 1
